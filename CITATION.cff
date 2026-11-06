@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "243 Passenger Car ECU Tuning Guides across 27 Brands (Audi, BMW, Mercedes, VW, Porsche, Toyota, Ford, PSA, Renault, Fiat) — DaVinci Deluxe Cloud Edition. (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/online-ecu-tuning"
+repository-code: "https://github.com/DavinciDeluxe/car-brand-ecu-tuning-directory"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
